@@ -1,1 +1,3 @@
-# Decode
+# Becode
+
+Exercise for DevOps module
